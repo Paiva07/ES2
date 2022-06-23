@@ -1,4 +1,4 @@
-export class Carro {
+export class Logistica {
   public validarFretePeso(number: number): void {
     if(number < 10){
       console.log('Modalidade Carro: Frete Aceito')

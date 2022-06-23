@@ -1,9 +1,7 @@
 import prompt from 'prompt-sync';
-import { Carro } from "./Carro";
-import { Navio } from "./Navio";
+import { Logistica } from "./Logistica";
 
-const navio: Navio = new Navio()
-const carro: Carro = new Carro()
+const carro: Logistica = new Logistica()
 let teclado = prompt();
 let option: number = 0; 
 let option2
@@ -22,13 +20,13 @@ while (option != 9){
     switch (option) {
       case 1: 
       option2 = +teclado("Informe o Peso: ")
-      navio.validarFretePeso(option2)
+     
       carro.validarFretePeso(option2)
       break;
       
       case 2: 
       option2 = teclado("Informe a Sigla do Estado. Ex: RS ")
-      navio.validarFreteRegiao(option2)
+      
       carro.validarFreteRegiao(option2)
       break;
     }

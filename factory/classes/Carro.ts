@@ -1,6 +1,6 @@
 import { Logistica } from "./Logistica";
 
-export class Carro extends Logistica{
+export class Carro implements Logistica{
   public validarFretePeso(number: number): void {
     if(number < 10){
       console.log('Modalidade Carro: Frete Aceito')
@@ -9,7 +9,7 @@ export class Carro extends Logistica{
      }
   }
   public validarFreteRegiao(uf: string): void {
-    if(uf == 'RJ' || uf == 'TO'){
+    if(uf.toUpperCase() == 'RJ' || uf.toUpperCase() == 'TO'){
      console.log('Modalidade Carro: Região Atendida')
     }else{
      console.log('Modalidade Carro: Região Não Atendida')
