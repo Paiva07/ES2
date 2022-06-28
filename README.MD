@@ -14,5 +14,6 @@ Já no diretório "factory", aplicando o método fábrica, temos a interface Log
 Link da apresentação!
 https://www.dropbox.com/s/3fgk6stsvpbt50o/ES2%20-%20Factory%20Method.mp4?dl=0
  
-Meteu essa? Simplesmente o poof do entretenimento!
- <img width="200" align="center" src="https://pbs.twimg.com/media/FIzozpiXIAQYdlI.jpg">
+
+<img width="200" align="center" src="https://pbs.twimg.com/media/FIzozpiXIAQYdlI.jpg">
+<p align="center"> Meteu essa? </p>
