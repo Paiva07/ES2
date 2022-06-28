@@ -2,7 +2,7 @@
 
 <h2> Introdução </h2>
 
-O presente repositório, tem como propósito apresentar o método fábrica, um padrão de projeto, onde uma "superclasse" especifica
+O presente repositório, tem como propósito apresentar o método fábrica, um padrão de projeto, onde uma Interface especifica
 os padrões e comportamentos a serem utilizados de forma genérica, podendo posteriormente, ser "sobrescrito" em subclasses.
 
 <h2> Descrição do projeto </h2>
