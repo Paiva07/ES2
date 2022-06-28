@@ -11,4 +11,8 @@ No diretório "no-factory", temos um código desenvolvido em TypeScript, onde te
 
 Já no diretório "factory", aplicando o método fábrica, temos a interface Logistica que é composta de dois metodos, validarFretePeso e validarFreteRegiao, estes serão de todas as classes derivadas de interface, porém cada uma com a sua lógica dentro do método. Por fim, temos o core.ts, o qual é a nossa fábrica, que instância as nossas classes Carro.ts e Navio.ts, efetuando tais chamadas através do core.ts (fabrica).
 
- <img width="200" src="https://pbs.twimg.com/media/FIzozpiXIAQYdlI.jpg">
+Link da apresentação!
+https://www.dropbox.com/s/3fgk6stsvpbt50o/ES2%20-%20Factory%20Method.mp4?dl=0
+ 
+Meteu essa? Simplesmente o poof do entretenimento!
+ <img width="200" align="center" src="https://pbs.twimg.com/media/FIzozpiXIAQYdlI.jpg">
