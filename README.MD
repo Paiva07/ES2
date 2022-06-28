@@ -14,6 +14,10 @@ Já no diretório "factory", aplicando o método fábrica, temos a interface Log
 Link da apresentação!
 https://www.dropbox.com/s/8hr2jbgy7jhekyp/ES2%20-%20Factory%20Method.mp4?dl=0
  
+ <video width="320" height="240" controls>
+  <source src="https://www.dropbox.com/s/8hr2jbgy7jhekyp/ES2%20-%20Factory%20Method.mp4?dl=0" type="video/mp4">
+
+</video>
 
 <img width="200" align="center" src="https://pbs.twimg.com/media/FIzozpiXIAQYdlI.jpg">
 <h3 align="center"> Meteu essa? </h3>
